@@ -1,6 +1,7 @@
-![horses](https://user-images.githubusercontent.com/1788228/147749946-5f9c3027-e0fe-4a0d-bb00-8b13dd05d4b8.png)
+![horses](https://user-images.githubusercontent.com/1788228/147750048-58167e25-eda3-4628-9256-afa2d7e647ec.png)
 
 <!--
+
 **YerayAlonso/YerayAlonso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
